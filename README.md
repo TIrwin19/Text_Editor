@@ -10,6 +10,7 @@ This is J.A.T.E your very own downloadable text editor. This PWA application wil
 ## Table of Contents
 
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
