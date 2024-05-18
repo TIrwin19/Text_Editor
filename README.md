@@ -25,6 +25,9 @@ This is J.A.T.E your very own downloadable text editor. This PWA application wil
 
 Once you click the link and see the app in your browsr you can just start typing. Test out the the persistent caching by refreshing your browser. If you don't want to save the link to your bookmars bar or you just want easier access to it you can download the app onto your computer by clicking the install button in the top left corner. It works the same as in the browser except for the refresh which you can do by pressing ctrl+R on Windows or command+R on Mac. Try it out!
 
+##Deployment
+https://calm-brushlands-29024-8220b77f5da8.herokuapp.com/
+
 ## Credits
 
 JD Tadlock: For all the instruction and help in the Rutgers coding bootcamp
