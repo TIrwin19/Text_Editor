@@ -16,7 +16,7 @@ This is J.A.T.E your very own downloadable text editor. This PWA application wil
 - [Tests](#tests)
 - [Questions](#questions)
 
-##Visuals
+## Visuals
 <img src="/images/Screenshot 2024-05-17 215206.png"/>
 <img src="/images/Screenshot 2024-05-17 215225.png"/>
 <img src="/images/Screenshot 2024-05-17 215239.png"/>
