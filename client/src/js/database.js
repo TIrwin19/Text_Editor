@@ -24,7 +24,6 @@ export const putDb = async (content) => {
   } catch (error) {
     console.error('Error adding data to the database:', error);
   }
-
 };
 
 
@@ -41,7 +40,6 @@ export const getDb = async () => {
   } catch (error) {
     console.error('Error retrieving data from the database:', error);
   }
-
 };
 
 initdb();
